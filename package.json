@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.6.3",
+    "@heroicons/react": "^1.0.6",
+    "i": "^0.3.7",
+    "moment": "^2.29.3",
     "next": "12.1.6",
+    "npm": "^8.11.0",
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.11",
     "react": "18.1.0",
+    "react-datepicker": "^4.8.0",
     "react-dom": "18.1.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.7",
     "eslint": "8.16.0",
-    "eslint-config-next": "12.1.6"
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
   }
 }
